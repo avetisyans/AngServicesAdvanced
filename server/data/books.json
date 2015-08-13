@@ -1,0 +1,32 @@
+[
+    {
+        "book_id": 1,
+        "title": "Anna Kareninaiiiii",
+        "author": "Leo Tolstoy",
+        "year_published": "1878"
+    },
+    {
+        "book_id": 2,
+        "title": "The Things They Carried",
+        "author": "Tim O'Brien",
+        "year_published": "1990"
+    },
+    {
+        "book_id": 3,
+        "title": "Invisible Man",
+        "author": "Ralph Ellison",
+        "year_published": "1952"
+    },
+    {
+        "book_id": 57,
+        "title": "Advanced OS X Programming",
+        "author": "Mark Dalrymple",
+        "year_published": "2010"
+    },
+    {
+        "book_id": 61,
+        "title": "Green Eggs and Ham",
+        "author": "Dr. Seuss",
+        "year_published": "1960"
+    }
+]
